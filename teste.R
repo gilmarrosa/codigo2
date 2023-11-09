@@ -8,3 +8,4 @@ xy<-rnorm(300)
 hist(xy)
 
 library(geobr)
+library(ggplot2)
