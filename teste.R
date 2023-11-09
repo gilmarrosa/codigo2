@@ -6,3 +6,5 @@ print(x*y)
 
 xy<-rnorm(300)
 hist(xy)
+
+library(geobr)
